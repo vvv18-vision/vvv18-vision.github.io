@@ -1,0 +1,22 @@
+{
+    "tutorials": [
+        {
+            "name": "tutorial_find-wally",
+            "url": "https://github.com/vvv-school/tutorial_find-wally.git",
+            "score": 1
+        },
+        {
+            "name": "tutorial_yarp-opencv",
+            "url": "https://github.com/vvv-school/tutorial_yarp-opencv.git",
+            "score": 1
+        }      
+    ],
+
+    "assignments": [
+        {
+            "name": "assignment_closest-blob",
+            "url": "https://github.com/vvv-school/assignment_closest-blob.git",
+            "score": 5
+        }    
+    ] 
+}
