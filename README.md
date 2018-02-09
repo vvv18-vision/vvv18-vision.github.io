@@ -121,6 +121,7 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_find-wally-anqingd](https://github.com/vvv18-vision/tutorial_find-wally-anqingd) | :white_check_mark: | **1** |
 | [tutorial_yarp-opencv-anqingd](https://github.com/vvv18-vision/tutorial_yarp-opencv-anqingd) | :white_check_mark: | **1** |
+| [assignment_closest-blob-anqingd](https://github.com/vvv18-vision/assignment_closest-blob-anqingd) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
