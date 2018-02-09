@@ -57,9 +57,9 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_find-wally-osm3000](https://github.com/vvv18-vision/tutorial_find-wally-osm3000) | :white_check_mark: | **1** |
-| [assignment_closest-blob-osm3000](https://github.com/vvv18-vision/assignment_closest-blob-osm3000) | :x: | **0** |
+| [assignment_closest-blob-osm3000](https://github.com/vvv18-vision/assignment_closest-blob-osm3000) | :white_check_mark: | **20** |
 
-![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-21-brightgreen.svg?style=flat-square)
 
 ---
 

@@ -107,12 +107,12 @@
     "assignments": [
       {
         "name": "assignment_closest-blob-osm3000",
-        "status": ":x:",
-        "last_commit_date": "2018-02-08 11:28:14 UTC",
-        "score": 5
+        "status": ":white_check_mark:",
+        "last_commit_date": "2018-02-09 21:58:28 UTC",
+        "score": 20
       }
     ],
-    "score": 1
+    "score": 21
   },
   {
     "username": "mkthabet",
