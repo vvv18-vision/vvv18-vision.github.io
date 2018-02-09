@@ -253,8 +253,9 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_find-wally-fbottarel](https://github.com/vvv18-vision/tutorial_find-wally-fbottarel) | :white_check_mark: | **1** |
+| [tutorial_yarp-opencv-fbottarel](https://github.com/vvv18-vision/tutorial_yarp-opencv-fbottarel) | :white_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
 ---
 
