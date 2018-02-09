@@ -188,6 +188,7 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_find-wally-umgnunes](https://github.com/vvv18-vision/tutorial_find-wally-umgnunes) | :white_check_mark: | **1** |
 | [tutorial_yarp-opencv-umgnunes](https://github.com/vvv18-vision/tutorial_yarp-opencv-umgnunes) | :white_check_mark: | **1** |
+| [assignment_closest-blob-umgnunes](https://github.com/vvv18-vision/assignment_closest-blob-umgnunes) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
