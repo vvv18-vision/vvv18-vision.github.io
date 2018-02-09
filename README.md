@@ -78,6 +78,7 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_find-wally-Meylina](https://github.com/vvv18-vision/tutorial_find-wally-Meylina) | :white_check_mark: | **1** |
 | [tutorial_yarp-opencv-Meylina](https://github.com/vvv18-vision/tutorial_yarp-opencv-Meylina) | :white_check_mark: | **1** |
+| [assignment_closest-blob-Meylina](https://github.com/vvv18-vision/assignment_closest-blob-Meylina) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
