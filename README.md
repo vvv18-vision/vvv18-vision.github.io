@@ -249,6 +249,7 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_find-wally-marco-monforte](https://github.com/vvv18-vision/tutorial_find-wally-marco-monforte) | :white_check_mark: | **1** |
 | [tutorial_yarp-opencv-marco-monforte](https://github.com/vvv18-vision/tutorial_yarp-opencv-marco-monforte) | :white_check_mark: | **1** |
+| [assignment_closest-blob-marco-monforte](https://github.com/vvv18-vision/assignment_closest-blob-marco-monforte) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
