@@ -70,9 +70,9 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_find-wally-mkthabet](https://github.com/vvv18-vision/tutorial_find-wally-mkthabet) | :white_check_mark: | **1** |
 | [tutorial_yarp-opencv-mkthabet](https://github.com/vvv18-vision/tutorial_yarp-opencv-mkthabet) | :white_check_mark: | **1** |
-| [assignment_closest-blob-mkthabet](https://github.com/vvv18-vision/assignment_closest-blob-mkthabet) | :x: | **0** |
+| [assignment_closest-blob-mkthabet](https://github.com/vvv18-vision/assignment_closest-blob-mkthabet) | :white_check_mark: | **20** |
 
-![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-22-brightgreen.svg?style=flat-square)
 
 ---
 
