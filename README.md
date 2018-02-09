@@ -241,8 +241,9 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_find-wally-UgoVollhardt](https://github.com/vvv18-vision/tutorial_find-wally-UgoVollhardt) | :white_check_mark: | **1** |
+| [tutorial_yarp-opencv-UgoVollhardt](https://github.com/vvv18-vision/tutorial_yarp-opencv-UgoVollhardt) | :white_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
 ---
 
