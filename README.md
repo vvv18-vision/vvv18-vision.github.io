@@ -178,7 +178,11 @@
 
 ### [**samvinanzi**](https://github.com/samvinanzi) grade
 
-![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [tutorial_find-wally-samvinanzi](https://github.com/vvv18-vision/tutorial_find-wally-samvinanzi) | :white_check_mark: | **1** |
+
+![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
 
 ---
 
