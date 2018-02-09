@@ -301,6 +301,7 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_find-wally-nikmayr2](https://github.com/vvv18-vision/tutorial_find-wally-nikmayr2) | :white_check_mark: | **1** |
 | [tutorial_yarp-opencv-nikmayr2](https://github.com/vvv18-vision/tutorial_yarp-opencv-nikmayr2) | :white_check_mark: | **1** |
+| [assignment_closest-blob-nikmayr2](https://github.com/vvv18-vision/assignment_closest-blob-nikmayr2) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
