@@ -211,6 +211,7 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_find-wally-samvinanzi](https://github.com/vvv18-vision/tutorial_find-wally-samvinanzi) | :white_check_mark: | **1** |
 | [tutorial_yarp-opencv-samvinanzi](https://github.com/vvv18-vision/tutorial_yarp-opencv-samvinanzi) | :white_check_mark: | **1** |
+| [assignment_closest-blob-samvinanzi](https://github.com/vvv18-vision/assignment_closest-blob-samvinanzi) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
