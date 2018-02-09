@@ -2,7 +2,11 @@
 
 ### [**atabakd**](https://github.com/atabakd) grade
 
-![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [tutorial_find-wally-atabakd](https://github.com/vvv18-vision/tutorial_find-wally-atabakd) | :white_check_mark: | **1** |
+
+![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
 
 ---
 
