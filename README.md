@@ -343,9 +343,9 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_find-wally-DonatiElisa](https://github.com/vvv18-vision/tutorial_find-wally-DonatiElisa) | :white_check_mark: | **1** |
 | [tutorial_yarp-opencv-DonatiElisa](https://github.com/vvv18-vision/tutorial_yarp-opencv-DonatiElisa) | :white_check_mark: | **1** |
-| [assignment_closest-blob-DonatiElisa](https://github.com/vvv18-vision/assignment_closest-blob-DonatiElisa) | :x: | **0** |
+| [assignment_closest-blob-DonatiElisa](https://github.com/vvv18-vision/assignment_closest-blob-DonatiElisa) | :white_check_mark: | **20** |
 
-![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-22-brightgreen.svg?style=flat-square)
 
 ---
 
