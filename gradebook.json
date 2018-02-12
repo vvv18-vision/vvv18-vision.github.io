@@ -563,12 +563,12 @@
     "assignments": [
       {
         "name": "assignment_closest-blob-nikmayr2",
-        "status": ":x:",
-        "last_commit_date": "2018-02-11 23:16:29 UTC",
-        "score": 5
+        "status": ":white_check_mark:",
+        "last_commit_date": "2018-02-12 18:43:56 UTC",
+        "score": 20
       }
     ],
-    "score": 2
+    "score": 22
   },
   {
     "username": "science-code",
