@@ -265,9 +265,9 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_find-wally-njm12](https://github.com/vvv18-vision/tutorial_find-wally-njm12) | :white_check_mark: | **1** |
 | [tutorial_yarp-opencv-njm12](https://github.com/vvv18-vision/tutorial_yarp-opencv-njm12) | :white_check_mark: | **1** |
-| [assignment_closest-blob-njm12](https://github.com/vvv18-vision/assignment_closest-blob-njm12) | :x: | **0** |
+| [assignment_closest-blob-njm12](https://github.com/vvv18-vision/assignment_closest-blob-njm12) | :white_check_mark: | **15** |
 
-![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-17-brightgreen.svg?style=flat-square)
 
 ---
 
